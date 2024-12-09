@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Basic-react-portfolio/static/css/main.c936551f.css",
+    "main.js": "/Basic-react-portfolio/static/js/main.bc7904f4.js",
+    "static/media/project3.png": "/Basic-react-portfolio/static/media/project3.9de55fcad3af897f05ef.png",
+    "static/media/project7.png": "/Basic-react-portfolio/static/media/project7.b4c2013e5fbadeafd55c.png",
+    "static/media/project6.png": "/Basic-react-portfolio/static/media/project6.90656c26be27946222d6.png",
+    "static/media/project4.png": "/Basic-react-portfolio/static/media/project4.ef6aac705c85b8c79096.png",
+    "static/media/project5.png": "/Basic-react-portfolio/static/media/project5.b8ed0220267a37ed5207.png",
+    "static/media/project9.png": "/Basic-react-portfolio/static/media/project9.baa6111b0d1a24bd76c3.png",
+    "static/media/project1.png": "/Basic-react-portfolio/static/media/project1.d6ccb1fc07fa91ce6975.png",
+    "static/media/project8.png": "/Basic-react-portfolio/static/media/project8.2c32fac1ae5e3106ad86.png",
+    "static/media/Project2.png": "/Basic-react-portfolio/static/media/Project2.6c068a7b34675dab83cd.png",
+    "index.html": "/Basic-react-portfolio/index.html",
+    "main.c936551f.css.map": "/Basic-react-portfolio/static/css/main.c936551f.css.map",
+    "main.bc7904f4.js.map": "/Basic-react-portfolio/static/js/main.bc7904f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c936551f.css",
+    "static/js/main.bc7904f4.js"
+  ]
+}
