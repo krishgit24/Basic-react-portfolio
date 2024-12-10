@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <section id="about" className="bg-blue-500 min-h-96 bg-cover bg-left bg-no-repeat "
+    <section id="about" className="bg-blue-500 m-5 min-h-96 rounded-xl  bg-cover bg-left bg-no-repeat "
     style={{
       backgroundImage: `url('https://www.schoolnews.co.nz/wp-content/uploads/2017/12/AdobeStock_137056916.jpeg')`,
     }}>
